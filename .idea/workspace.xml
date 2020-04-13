@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95080dc2-6f9e-457f-a565-58274098b316" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/products/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyshop/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Loughsoft\Desktop\Django_EcWeb\templates" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -84,24 +88,32 @@
       <option name="project" value="LOCAL" />
       <updated>1586781923859</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="design with bootstrap framework">
+      <created>1586784420812</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586784420812</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add products and offer database" />
     <MESSAGE value="create super user and manage product" />
     <MESSAGE value="update the products into the index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="update the products into the index.html" />
+    <MESSAGE value="design with bootstrap framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="design with bootstrap framework" />
   </component>
   <component name="WindowStateProjectService">
     <state x="442" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586781654965">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="442" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1586781654965" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1586781946375">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1586784409717">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586781946375" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586784409717" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586771319940">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -118,10 +130,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586771324335" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1586781953194">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1586784420997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586781953194" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586784420997" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1586775404582">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
