@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95080dc2-6f9e-457f-a565-58274098b316" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyshop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +62,25 @@
       <option name="presentableId" value="Default" />
       <updated>1586763220671</updated>
     </task>
+    <task id="LOCAL-00001" summary="add products and offer database">
+      <created>1586775882345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586775882345</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add products and offer database" />
+    <option name="LAST_COMMIT_MESSAGE" value="add products and offer database" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1586775740691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586775740691" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586771319940">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -83,10 +97,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586771324335" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1586771691548">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1586775762599">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586771691548" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586775762599" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1586775404582">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
